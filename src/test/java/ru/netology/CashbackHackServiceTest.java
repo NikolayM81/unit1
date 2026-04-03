@@ -1,15 +1,10 @@
 package ru.netology;
 
 
-//import org.junit.Assert;
+
 import org.junit.Assert;
 import org.junit.Test;
-import static org.junit.Assert.assertEquals;
 
-//import org.testng.Assert;
-//import org.testng.annotations.Test;
-
-import static org.testng.AssertJUnit.assertEquals;
 
 
 public class CashbackHackServiceTest {
