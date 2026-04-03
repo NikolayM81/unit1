@@ -1,11 +1,7 @@
 package ru.netology;
 
-
-
 import org.junit.Assert;
 import org.junit.Test;
-
-
 
 public class CashbackHackServiceTest {
 
